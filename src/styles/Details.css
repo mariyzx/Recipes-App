@@ -1,0 +1,94 @@
+.div-details {
+  align-items: center;
+  background-color: #fff8ee;
+  color: #50504a;
+  display: flex;
+  flex-direction: column;
+  font-family: Lato , sans-serif;
+  font-weight: 600;
+  justify-content: center;
+
+}
+
+.div-details > h1 {
+  font-family: Dancing Script , cursive;
+  font-size: 45px;
+  text-align: center;
+}
+
+.div-details > h4, h5 {
+  font-family: Dancing Script , cursive;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.div-details > img {
+  border: 2px solid transparent;
+  border-radius: 50%;
+  box-shadow: 8px 6px 11px -2px rgba(80, 80, 74, 0.46);
+}
+
+.ingredient-0 {
+  margin-top: 15px;
+}
+
+.button-details {
+  align-items: center;
+  display: flex;
+  gap: 0.2rem;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.button-details > button {
+  border-radius: 8px;
+}
+
+.inst {
+  line-height: 30px;
+  padding: 10px;
+}
+
+.div-button {
+  align-items: center;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+}
+
+.start-recipe {
+  background-color: #fba114;
+  border-radius: 8px;
+}
+
+.steps, .ingredients {
+  margin-top: 10px;
+}
+
+.imgFoods {
+  border: 2px solid transparent;
+  border-radius: 50%;
+  box-shadow: 8px 6px 11px -2px rgba(80, 80, 74, 0.46);
+}
+
+.div-done {
+  align-items: center;
+  background-color: #fff8ee;
+  color: #50504a;
+  display: flex;
+  flex-direction: column;
+  font-family: Lato , sans-serif;
+  font-weight: 600;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+a {
+  color: #50504a;
+}
+
+.name {
+  font-size: 22px;
+}

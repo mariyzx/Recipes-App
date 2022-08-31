@@ -1,0 +1,103 @@
+.div-foods-drinks, body {
+  background-color: #fff8ee;
+}
+
+.header-foods-drinks {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-page {
+  font-family: Dancing Script , cursive;
+}
+
+.buttons-header {
+  align-items: center;
+  display: flex;
+  gap: 0.2rem;
+  justify-content: center;
+}
+
+.buttons-header > button {
+  border-radius: 8px;
+}
+
+.div-search {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.3rem;
+}
+
+.input-search {
+  width: 80%;
+}
+
+.radio-input {
+  margin-left: 5px;
+}
+
+.category {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.button-profile, .text-email {
+  padding: 2px;
+  text-align: center;
+}
+
+.button-prof {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.foods-drinks {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.category > button {
+  background-color: #fba114;
+  border: 2px solid transparent;
+  border-radius: 10px;
+  color: rgba(0, 0, 0, 0.747);
+}
+
+.card-food-drinks > h5 {
+  color: #50504a;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Dancing Script , cursive;
+  font-size: 30px;
+  justify-content: center;
+  margin-top: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.img-food-drinks {
+  border: 2px solid transparent;
+  border-radius: 50%;
+  box-shadow: 8px 6px 11px -2px rgba(80, 80, 74, 0.46);
+}
+
+.footer {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 0.2rem;
+  justify-content: center;
+  width: 100%;
+}
+
+.footer > button {
+  border-radius: 8px;
+}

@@ -1,0 +1,15 @@
+/* algo aqui */
+.checkbox-round {
+  appearance: none;
+  background-color: #fff8ee;
+  border: 1px solid #50504a;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 1em;
+  outline: none;
+  vertical-align: middle;
+  width: 1em; }
+
+.checkbox-round:checked {
+  background-color: #50504a;
+}
