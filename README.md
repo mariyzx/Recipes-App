@@ -1,6 +1,6 @@
 # Projeto App de Receitas!
 
-Nesse projeto foi desenvolvido uma aplicação com foco em dispositivos móveis que retorna receitas de comidas e bebidas, utilizando duas API's: [TheCocktailDB](https://www.thecocktaildb.com/) e [TheMealDB](https://www.themealdb.com/). Essa aplicação foi desenvolvida utilizando React Hooks, RTL e Context API! No App de Receitas será possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks!
+Nesse projeto foi desenvolvido uma aplicação com foco em dispositivos móveis que retorna receitas de comidas e bebidas, utilizando duas API's: [TheCocktailDB](https://www.thecocktaildb.com/) e [TheMealDB](https://www.themealdb.com/). Essa aplicação foi desenvolvida utilizando React, RTL e Context API! No App de Receitas será possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks!
 
 ## Desempenho:
 
