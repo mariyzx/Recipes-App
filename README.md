@@ -6,8 +6,6 @@ Nesse projeto foi desenvolvido uma aplicação com foco em dispositivos móveis 
 
 O projeto App de Receitas foi desenvolvido por [Mariana Werneck](https://www.linkedin.com/in/marinhomariana8/), [Heloísa Santana](https://www.linkedin.com/in/heloisa-santana-da-silva/), [Solon Amaral](https://www.linkedin.com/in/solon-amaral/), [Daniel Bahia](https://www.linkedin.com/in/danibahia/) e [Cássio Matsushita](https://www.linkedin.com/in/cassio-matsushita-217571a2/) durante o curso de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)!
 
-![Desempenho Recipes App](src/images/recipes-app.png)
-
  
 ## Como utilizar:
 
